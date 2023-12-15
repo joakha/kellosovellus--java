@@ -8,7 +8,7 @@ public class Ikkuna extends JFrame {
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(400, 400);
-        this.setTitle("Kellosovellus");
+        this.setTitle("Haapanen Johannes Kellosovellus");
         this.setLayout(null);
         this.setResizable(false);
         this.getContentPane().setBackground(Color.black);

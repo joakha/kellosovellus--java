@@ -1,6 +1,6 @@
-Yksinkertainen kellosovellus, joka näyttää kellonajan, viikonpäivän ja päivämäärän
+Yksinkertainen kellosovellus, joka näyttää kellonajan, viikonpäivän ja päivämäärän.
 
-Ensimmäinen projekti, jonka tein Java Swing GUI:n itseharjoittelua varten
+Ensimmäinen projekti, jonka tein Java Swing GUI:n itseharjoittelua varten.
 
 Opin:
 
